@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **basic DSA and JS**
 
-- 📫 How to reach me **rajasmitab@gmail.com**
+- 📫 Reach me: **rajasmitab@gmail.com**
 
-- ⚡ Fun fact **I speak in code and coffee**
+- ⚡ Fun fact about me is **I speak in code and coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
