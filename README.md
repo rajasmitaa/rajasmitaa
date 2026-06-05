@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajasmita</h1>
-<h3 align="center">A passionate web developer and DSA enthusiast from India</h3>
+<h3 align="center">A passionate Cyber Security enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajasmitaa&label=Profile%20views&color=0e75b6&style=flat" alt="rajasmitaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajasmitaa" alt="rajasmitaa" /></a> </p>
 
-- 🔭 I’m currently working on **my web dev & dsa skills**
+- 🔭 I’m currently working on **my cyber security skills**
 
-- 🌱 I’m currently learning **basic DSA and JS**
+- 🌱 I’m currently learning **ethical hacking**
 
 - 📫 Reach me: **rajasmitab@gmail.com**
 
